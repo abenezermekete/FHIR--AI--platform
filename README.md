@@ -14,11 +14,11 @@ data and integrate intelligent decision-support tools.
 
 ##  Features
 
-- ✅ FHIR-based Patient resource
-- ✅ REST API using FastAPI
-- ✅ PostgreSQL database integration
-- ✅ AI risk prediction module
-- ✅ Deodorized environment
+- FHIR-based Patient resource
+-  REST API using FastAPI
+- PostgreSQL database integration
+-  AI risk prediction module
+-  Deodorized environment
 
 ---
 
