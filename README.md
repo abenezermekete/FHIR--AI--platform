@@ -1,6 +1,5 @@
 # FHIR--AI--platform
-# FHIR AI Interoperability Platform
-
+# FHIR AI Interoperability 
 
 ##  Overview
 This project demonstrates a healthcare interoperability platform
@@ -17,10 +16,9 @@ data and integrate intelligent decision-support tools.
 - FHIR-based Patient resource
 -  REST API using FastAPI
 - PostgreSQL database integration
--  AI risk prediction module
+- AI risk prediction module
 -  Deodorized environment
 
----
 
 ##  Architecture
 
@@ -28,7 +26,6 @@ Client → FastAPI → PostgreSQL
                      ↓  
                    AI Model  
 
----
 
 ##  Tech Stack
 
@@ -58,12 +55,9 @@ GET `/predict-risk?age=60`
 A simple predictive function estimates patient risk based on age.
 This demonstrates how AI models can be integrated into clinical workflows.
 
----
-
 ## Why This Project Matters
 
 Healthcare systems often suffer from fragmented data across different systems.
-
 
 
 ##  How to Run (Docker)
